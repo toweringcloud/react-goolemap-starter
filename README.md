@@ -1,6 +1,6 @@
 # react-googlemap-starter
 
-bun based express web app using mongodb and pug
+location based frontend web app using react + googlemap
 
 ## how to run
 
@@ -36,7 +36,7 @@ REACT_APP_MAPS_API_KEY={YOUR_GOOGLEMAP_API_KEY}
 
 ### launch
 
-- run app in bun runtime with development mode
+- run bun app with development mode
 
 ```sh
 $ bun dev
